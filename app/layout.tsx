@@ -9,7 +9,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Vault Elite | Private Banking Dashboard",
+  title: "Finanzas | Personales",
   description: "Sistema de gestión financiera inteligente y privada",
 };
 
